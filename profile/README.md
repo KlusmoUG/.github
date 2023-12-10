@@ -1,4 +1,7 @@
-![LOGO](./assets/KlusmoLogo.png)
+<p align="center">
+  <a href="https://klusmo.de/" target="_blank" rel="noreferrer"><img src="./assets/KlusmoLogo.png" alt="my banner"></a>
+</p>
+<h3 align="center">
 # Klusmo UG / in Gründungsprozess
 
 ## Wer sind wir?
