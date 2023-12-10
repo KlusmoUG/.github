@@ -2,6 +2,12 @@
 # Klusmo UG / in Gründungsprozess
 
 ## Wer sind wir?
+### Finn Klusmann
+
+
+### Leon Moser
+
+
 
 ## Was können wir?
 
