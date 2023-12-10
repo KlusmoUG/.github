@@ -1,2 +1,2 @@
 # Klusmo UG / in Gründungsprozess
-!LOGO](/assets/KlusmoLogo.png)
+![LOGO](/assets/KlusmoLogo.png)
