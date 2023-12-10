@@ -2,7 +2,11 @@
   <a href="https://klusmo.de/" target="_blank" rel="noreferrer"><img src="../assets/KlusmoLogo.png" alt="my banner"></a>
 </p>
 <h3 align="center">
-# Klusmo UG / in Gründungsprozess
+
+<br>
+# Klusmo
+<br>
+
 
 ## Wer sind wir?
 Finn Klusmann <br>
