@@ -2,7 +2,7 @@
   <a href="https://klusmo.de/" target="_blank" rel="noreferrer"><img src="https://github.com/KlusmoUG/.github/blob/e9a66cf7d3dcaf61b53313d54095b458f35f840b/assets/KlusmoLogo.png" alt="my banner"></a>
 </p>
 <h3 align="center">
-Moin, wir sind Klusmo
+Moin, wir sind Klusmo IT UG 
 </h3>
 
 ## Wer sind wir?
