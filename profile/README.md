@@ -1,5 +1,5 @@
 <p align="center" height="40px" width="120px">
-  <a href="https://klusmo.de/" target="_blank" rel="noreferrer"><img src="https://github.com/KlusmoUG/.github/blob/main/assets/KlusmoLOGO.png" alt="my banner"></a>
+  <a href="https://klusmo.de/" target="_blank" rel="noreferrer"><img src="https://github.com/KlusmoUG/.github/blob/main/assets/logo-light.png" alt="my banner"></a>
 </p>
 <h3 align="center">
 Moin, wir sind Klusmo IT UG 
